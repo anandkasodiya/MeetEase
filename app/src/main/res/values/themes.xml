@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MeetEase" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--         Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.MeetEase" parent="Base.Theme.MeetEase" />
+
+    <style name="button">
+        <item name="android:background">@drawable/button_shape</item>
+        <item name="backgroundTint">@color/lightBlue</item>
+        <item name="android:padding">@dimen/_10sdp</item>
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="edittext">
+        <item name="android:background">@drawable/edittext_shape</item>c
+        <item name="android:paddingStart">@dimen/_20sdp</item>
+        <item name="android:paddingEnd">@dimen/_10sdp</item>
+        <item name="android:paddingBottom">@dimen/_10sdp</item>
+        <item name="android:paddingTop">@dimen/_10sdp</item>
+    </style>
+
+    <style name="RatingBar" parent="Widget.AppCompat.RatingBar.Indicator">
+        <item name="android:progressBackgroundTint">@color/black</item>
+        <item name="android:progressTint">@color/yellow</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+</resources>

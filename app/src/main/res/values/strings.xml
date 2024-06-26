@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeetEase</string>
+    <string name="account_login"><u>LOGIN</u></string>
+    <string name="don_t_have_an_account_signup"><u>SIGNUP</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">159023561809-qsvqo1au58o8ai69o7q5qr2cfh4tui7k.apps.googleusercontent.com</string>
+    <string name="default_notification_channel_id">meeting_notification</string>
+    <string name="msg_token_fmt">123</string>
+</resources>

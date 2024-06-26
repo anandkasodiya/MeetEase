@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159023561809",
+    "project_id": "meetease-9de87",
+    "storage_bucket": "meetease-9de87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159023561809:android:596d91f9af3df90080cc70",
+        "android_client_info": {
+          "package_name": "com.example.meetease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IyCMUcBRMnA-EWSn6HWosmKfCqEPaOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
